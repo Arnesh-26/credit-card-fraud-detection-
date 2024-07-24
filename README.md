@@ -1,1 +1,1 @@
-# ml-models
+I utilized logistic regression to predict potential defaults. Using an unbalanced dataset from Kaggle, which included features such as account balance, payment history, and credit limits, I chose logistic regression for its interpretability and robustness in binary classification. To address the imbalance, I took a representative sample of the dataset and performed necessary preprocessing and feature engineering. After splitting the data into training and testing sets, I trained the model using Scikit-Learn. 
